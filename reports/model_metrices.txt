@@ -1,0 +1,9 @@
+Random Forest Accuracy : 56.42%
+
+Cross Validation Score : 53.85%
+
+Top Features:
+1. team2_win_rate
+2. team1_win_rate
+3. head_to_head_advantage
+4. team1_venue_wins
